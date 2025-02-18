@@ -14,7 +14,7 @@
     "slug": "FF0067-2",
     "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "media_player": "aviary",
+    "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
@@ -2668,7 +2668,7 @@
       ]
     },
     "created_at": "2025-02-07T22:11:02.161Z",
-    "updated_at": "2025-02-18T21:30:59.439Z",
+    "updated_at": "2025-02-18T21:35:26.581Z",
     "generate_pages_site": true
   },
   "is_private": false
