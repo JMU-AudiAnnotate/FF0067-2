@@ -3,7 +3,13 @@
     "d6f47e06-b24b-4a34-82dc-b7d575da7a0e": {
       "label": "FF0067",
       "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/260/956/original/1738262522_open-uri20241209-779319-h9rgwt.mp4?1738262529",
-      "duration": 3595.781
+      "duration": 3595.781,
+      "caption_set": [
+        {
+          "annotation_page_id": "2ca855bf-2112-43bc-8391-a098f8db3792",
+          "speaker_category": "Speaker"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -21,6 +27,6 @@
   "created_by": "JMU-AudiAnnotate",
   "item_type": "Video",
   "label": "Interviews",
-  "updated_at": "2025-02-08T16:10:20.503Z",
+  "updated_at": "2025-02-18T19:31:53.267Z",
   "updated_by": "JMU-AudiAnnotate"
 }
